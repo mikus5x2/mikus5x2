@@ -28,10 +28,8 @@
 
 <h3 align="center">skill usage</h3>
 <p align="center">
-  <strong>c++</strong>  
-  <img src="https://progress-bar.dev/90/?title=c%2B%2B&color=00599c&suffix=%25" width="50%" /><br>
-  <strong>lua</strong>  
-  <img src="https://progress-bar.dev/10/?title=lua&color=2c2d72&suffix=%25" width="50%" />
+  <strong>c++</strong> <img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓░-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 90%<br>
+  <strong>lua</strong> <img src="https://img.shields.io/badge/▓░░░░░░░░-2c2d72?style=for-the-badge&logo=lua&logoColor=white" /> 10%
 </p>
 
 <h3 align="center">projects / stuff i do</h3>

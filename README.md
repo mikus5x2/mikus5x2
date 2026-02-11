@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://mikus5x.com">
-    <img src="https://cdn.yuna0x0.com/yuna/img/72408310_p5.webp" alt="banner" width="50%">
+    <img src="https://cdn.yuna0x0.com/yuna/img/72408310_p5.webp](https://i.pinimg.com/564x/01/6e/51/016e51d7f38548a431f5ae254056a890.jpg)" alt="banner" width="50%">
   </a>
 </p>
 
@@ -19,14 +19,14 @@
 
 ---
 
-<h3 align="center">skills</h3>
+<h3 align="center">languages i use</h3>
 
 <p align="center">
   <img height="25" src="https://img.shields.io/badge/c++-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img height="25" src="https://img.shields.io/badge/lua-2c2d72?style=for-the-badge&logo=lua&logoColor=white" />
 </p>
 
-<h3 align="center">skill usage</h3>
+<h3 align="center">usage</h3>
 <p align="center">
   <strong>c++</strong> <img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓░-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 90%<br>
   <strong>lua</strong> <img src="https://img.shields.io/badge/▓░░░░░░░░-2c2d72?style=for-the-badge&logo=lua&logoColor=white" /> 10%
@@ -39,8 +39,11 @@
 </ul>
 
 <p align="center">
-  <a href="https://octo-ring.com/p/yuna0x0/prev">&larr;</a>
-  <a class="cactus-link" href="https://octo-ring.com">octo ring</a>
-  <a href="https://octo-ring.com/p/yuna0x0/random">🎲</a>
-  <a href="https://octo-ring.com/p/yuna0x0/next">&rarr;</a>
+  <a href="#dream">🌙 dream</a>
+  <span style="margin:0 10px;">|</span>
+  <a href="#create">✨ create</a>
+  <span style="margin:0 10px;">|</span>
+  <a href="#explore">🚀 explore</a>
+  <span style="margin:0 10px;">|</span>
+  <a href="#next">➡ next</a>
 </p>

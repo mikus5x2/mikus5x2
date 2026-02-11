@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://mikus5x.com">
-    <img src="https://cdn.yuna0x0.com/yuna/img/72408310_p5.webp](https://i.pinimg.com/564x/01/6e/51/016e51d7f38548a431f5ae254056a890.jpg)" alt="banner" width="50%">
+    <img src="https://i.pinimg.com/564x/01/6e/51/016e51d7f38548a431f5ae254056a890.jpg" alt="banner" width="50%">
   </a>
 </p>
 

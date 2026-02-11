@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">hi, i'm <a href="https://mikus5x.com">mikus5x</a>!</h1>
+<h1 align="center">hi, i'm mikus5x!</h1>
 
 <h3 align="center">welcome to my profile!</h3>
 
@@ -16,6 +16,22 @@
   <strong><a href="https://www.youtube.com/@mikus8199">youtube</a></strong> |
   <strong><a href="https://discord.gg/fYmkwMKDEq">discord</a></strong>
 </p>
+
+---
+
+<h3 align="center">stats</h3>
+<p align="center">
+  <img height="20" src="https://img.shields.io/badge/c++-00599c?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/python-3776ab?style=flat&logo=python&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/lua-2c2d72?style=flat&logo=lua&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/flutter-02569b?style=flat&logo=flutter&logoColor=white" />
+</p>
+
+<h3 align="center">projects / stuff i do</h3>
+<ul>
+  <li>external cheats for cs2/roblox using c++</li>
+  <li>game development</li>
+</ul>
 
 <p align="center">
   <a href="https://octo-ring.com/p/yuna0x0/prev">&larr;</a>

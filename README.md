@@ -19,12 +19,19 @@
 
 ---
 
-<h3 align="center">stats</h3>
+<h3 align="center">skills</h3>
+
 <p align="center">
-  <img height="20" src="https://img.shields.io/badge/c++-00599c?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img height="20" src="https://img.shields.io/badge/python-3776ab?style=flat&logo=python&logoColor=white" />
-  <img height="20" src="https://img.shields.io/badge/lua-2c2d72?style=flat&logo=lua&logoColor=white" />
-  <img height="20" src="https://img.shields.io/badge/flutter-02569b?style=flat&logo=flutter&logoColor=white" />
+  <img height="25" src="https://img.shields.io/badge/c++-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img height="25" src="https://img.shields.io/badge/lua-2c2d72?style=for-the-badge&logo=lua&logoColor=white" />
+</p>
+
+<h3 align="center">skill usage</h3>
+<p align="center">
+  <strong>c++</strong>  
+  <img src="https://progress-bar.dev/90/?title=c%2B%2B&color=00599c&suffix=%25" width="50%" /><br>
+  <strong>lua</strong>  
+  <img src="https://progress-bar.dev/10/?title=lua&color=2c2d72&suffix=%25" width="50%" />
 </p>
 
 <h3 align="center">projects / stuff i do</h3>

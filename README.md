@@ -30,9 +30,11 @@
 <h3 align="center">usage</h3>
 
 <p align="center">
-  <strong>python</strong> <img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓░-3776ab?style=for-the-badge&logo=python&logoColor=white" /> 70%<br>
-  <strong>c++</strong> <img src="https://img.shields.io/badge/▓▓▓░░░░░░-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 25%<br>
-  <strong>lua</strong> <img src="https://img.shields.io/badge/▓░░░░░░░░-2c2d72?style=for-the-badge&logo=lua&logoColor=white" /> 5%
+  <strong>c++</strong> <img src="https://img.shields.io/badge/▓▓▓▓░░░░░░-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 40%<br>
+  <strong>c#</strong> <img src="https://img.shields.io/badge/▓▓░░░░░░░░-512bd4?style=for-the-badge&logo=csharp&logoColor=white" /> 20%<br>
+  <strong>tsc</strong> <img src="https://img.shields.io/badge/▓▓░░░░░░░░-3178c6?style=for-the-badge&logo=typescript&logoColor=white" /> 20%<br>
+  <strong>python</strong> <img src="https://img.shields.io/badge/▓▓▓░░░░░░░-3776ab?style=for-the-badge&logo=python&logoColor=white" /> 15%<br>
+  <strong>lua</strong> <img src="https://img.shields.io/badge/▓░░░░░░░░░-2c2d72?style=for-the-badge&logo=lua&logoColor=white" /> 5%
 </p>
 
 <h3 align="center">projects / stuff i do</h3>

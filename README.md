@@ -9,7 +9,7 @@
 <h3 align="center">welcome to my profile!</h3>
 
 <p align="center">
-  i'm a polish programmer learning python and exploring software development, game development and reverse engineering. ☆
+  i'm a polish programmer exploring software development, game development, reverse engineering and cybersecurity. ☆
 </p>
 
 <p align="center">
@@ -43,7 +43,8 @@
   <li>learning python and building projects</li>
   <li>game development</li>
   <li>reverse engineering & low-level programming</li>
-  <li>ex game cheat developer (c++ / game hacking background)</li>
+  <li>ui framework based on direct3d 11 - orbis</li>
+  <li>game cheat developer (c++ / game hacking background)</li>
 </ul>
 
 <p align="center">
